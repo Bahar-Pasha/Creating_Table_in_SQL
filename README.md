@@ -2,9 +2,9 @@
 # Cearting Table in SQL 
 
 
-I've started learning SQL since 3 months ago and during this time creating a portfolio was a biggest concern. At the end, after a lot of searching and watching Youtube videos, came up with the idea of creating table which I guess is the simplest task of SQL. 
+I've started learning SQL since 3 months ago and during this time creating a portfolio was a biggest concern. At the end, after a lot of searching and watching Youtube videos, I came up with the idea of creating table. 
 
-In the following picture, I created a table with different data types: Int= integer which is for numbers , Nvarchar just accepts string and 50 means you can write up to 50 character, then I defined a primary key for the first column and a default value for "Date" Column which will be automatically filled by " (getdate())" when entering data. 
+In the following picture, I created a table with different data types: Int= integer which is for numeric values , Nvarchar just accepts string and 50 means you can write up to 50 character, then I defined a primary key for the first column and a default value for "Date" Column which will be automatically filled by " (getdate())" function.
 
 
 <img width="1345" alt="B9CBBA5C-FFB3-43CD-ACE4-A0A3BD64742E" src="https://user-images.githubusercontent.com/127425854/227874492-5173d776-abb0-4d95-98df-248a24e86581.png">
@@ -13,7 +13,7 @@ In the following picture, I created a table with different data types: Int= inte
 
 ## Foreign Key
 
-When we want to linke a table to another, we do it through a Primary key and a Foreign key. It acutally gives rise to having consistent data in our database. 
+When we want to linke a table to another, we can do it through a Primary key and a Foreign key. It acutally gives rise to having a consistent data in our database. 
 
 
 
